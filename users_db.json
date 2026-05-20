@@ -1,0 +1,178 @@
+{
+  "7936861038": {
+    "balance": 4,
+    "agreed": true,
+    "state": null,
+    "purchased": 1,
+    "last_daily": 1779113588.3496506,
+    "ref_code": "2980316fe1"
+  },
+  "6939132428": {
+    "balance": 5,
+    "agreed": true,
+    "state": null,
+    "ref_code": "6c5f7d218c",
+    "purchased": 1,
+    "ref_bonus_received": true,
+    "last_daily": 1779226632.9026532
+  },
+  "5588056282": {
+    "balance": 0,
+    "agreed": true,
+    "state": "waiting_question",
+    "used": 3
+  },
+  "5875806700": {
+    "balance": 2,
+    "agreed": true,
+    "state": null,
+    "used": 1
+  },
+  "1759827854": {
+    "balance": 3,
+    "agreed": true
+  },
+  "8041742653": {
+    "balance": 1,
+    "agreed": true,
+    "state": null,
+    "purchased": 2,
+    "promocodes": [
+      "ХАКGPT67"
+    ],
+    "ref_code": "2d108c8521",
+    "used": 4
+  },
+  "7858602478": {
+    "balance": 5,
+    "agreed": true,
+    "state": null,
+    "purchased": 3,
+    "last_daily": 1779113774.3347402,
+    "promocodes": [
+      "ХАКGPT67"
+    ],
+    "used": 1,
+    "ref_code": "a4f55fa227"
+  },
+  "5253187696": {
+    "balance": 3,
+    "agreed": true
+  },
+  "7801606084": {
+    "balance": 4,
+    "agreed": true,
+    "state": null,
+    "used": 2,
+    "purchased": 3,
+    "last_daily": 1779114273.5979607,
+    "promocodes": [
+      "ХАКGPT67"
+    ]
+  },
+  "8211892425": {
+    "balance": 0,
+    "agreed": true,
+    "state": null,
+    "used": 3
+  },
+  "7719583020": {
+    "balance": 3,
+    "agreed": true,
+    "purchased": 1,
+    "last_daily": 1779115759.5954745,
+    "state": null,
+    "used": 1
+  },
+  "5248324030": {
+    "balance": 6,
+    "agreed": true,
+    "purchased": 3,
+    "last_daily": 1779118053.8440611,
+    "state": "waiting_question",
+    "used": 10,
+    "promocodes": [
+      "ХАКGPT67"
+    ],
+    "added_by_admin": 10
+  },
+  "458679054": {
+    "balance": 2,
+    "agreed": true,
+    "state": null,
+    "used": 1
+  },
+  "7672311748": {
+    "balance": 0,
+    "agreed": true,
+    "state": "waiting_question",
+    "used": 3
+  },
+  "7048243893": {
+    "balance": 2,
+    "agreed": true,
+    "state": "waiting_question",
+    "promocodes": [
+      "ХАКGPT67"
+    ]
+  },
+  "1960738637": {
+    "balance": 3,
+    "registered_at": 1779221814.8207285,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true
+  },
+  "1202326579": {
+    "balance": 2,
+    "registered_at": 1779222083.5498993,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true,
+    "last_daily": 1779222105.3729362,
+    "used": 2
+  },
+  "5014380241": {
+    "balance": 3,
+    "registered_at": 1779222160.9630892,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true
+  },
+  "1389673961": {
+    "balance": 3,
+    "registered_at": 1779222257.666774,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true
+  },
+  "6529152668": {
+    "balance": 3,
+    "registered_at": 1779223975.0021706,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true
+  },
+  "5993310039": {
+    "balance": 2,
+    "registered_at": 1779224039.1037486,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true,
+    "used": 1
+  },
+  "8105413329": {
+    "balance": 3,
+    "registered_at": 1779267361.515978,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true,
+    "ref_code": "ed4059b695"
+  },
+  "7060120446": {
+    "balance": 3,
+    "registered_at": 1779269551.888834,
+    "ref_by": null,
+    "ref_count": 0,
+    "agreed": true
+  },
